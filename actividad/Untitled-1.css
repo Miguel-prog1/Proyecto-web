@@ -1,0 +1,14 @@
+.verde:focus {
+    border-color: greenyellow;
+    border-radius: 0;
+}
+.verde {
+    background-color: greenyellow;
+}
+.rojo:focus {
+    border-color: red;
+    border-radius: 0;
+}
+.rojo {
+    background-color: red;
+}
